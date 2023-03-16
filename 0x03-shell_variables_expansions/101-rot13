@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Encoded text: $encoded"
+echo "Decoded text: $decoded"
